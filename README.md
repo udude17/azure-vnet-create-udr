@@ -1,5 +1,5 @@
 # azure-vnet-create-udr
-Create UDR per PowerShell in existing Azure VNET and Subnet
+Azure PowerShell commands to create a RouteTable based on values from a CSV file
 
 
 
