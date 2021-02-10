@@ -24,7 +24,7 @@ Param(
     [parameter(mandatory)][string]$SubID,
     [parameter(mandatory)][string]$udrName,
     [parameter(mandatory)][string]$resourceGroup,
-    [parameter(mandatory)][string]$location,
+    [parameter(mandatory)][string]$location
 ) 
 
 Connect-AzAccount
